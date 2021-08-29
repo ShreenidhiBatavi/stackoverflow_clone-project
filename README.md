@@ -10,8 +10,13 @@ This application has search box,which lets user to search questions on particula
 then user can click on any one particular question and can view the answer of that particular question.This application has feature to change the theme form light mode to dark mode or can toggle between light mode and dark mode.For efficient use last searched five terms are cached so that if same value is searched,then the question are renderd from locally memory without requesting to server.
 ### link to the working demo
 (https://stackoverflowclone.netlify.app/)
+### some sample screen shot of application
+ ![alt text](public/first.png)
+  ----
+ ![alt text](public/second.png)
+ ---
+ ![alt text](public/third.png)
 ### todos
 In this project I have not got the API to get the particular answer.Hence i am redirecting to stackoverflow website ,when clicked on particular question
 to get the particular answer
-![alt text](/home/shrinidhi/Pictures/first.png)
-(/home/shrinidhi/Pictures)
+
